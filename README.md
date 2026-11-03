@@ -9,4 +9,4 @@ npm run admin create "MNM1" HO 2026-03-20
 - `MNM1` → Client Name
 - `HO` → Station Code
 
-Please update these details in the README file on GitHub.
+
